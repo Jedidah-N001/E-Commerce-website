@@ -6,9 +6,9 @@ This e-commerce website is designed to provide users with a seamless online shop
 
 ## Technologies Used
 
-HTML (HyperText Markup Language)
-CSS (Cascading Style Sheets)
-JavaScript
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+- JavaScript
   
 ## Inspiration and Motivation
 
